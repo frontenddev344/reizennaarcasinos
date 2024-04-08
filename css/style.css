@@ -69,11 +69,11 @@ h2 {
 
 /* navbar styling  */
 nav {
-    background-color: var(--primary-color);
+    background-color: var(--main-color);
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 150px;
 }
 
 .navbar {
