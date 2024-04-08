@@ -236,7 +236,12 @@ nav {
     bottom: 0;
     left: 0;
 }
-
+.hotel_inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
 /* hotel styling end */
 /* hotel detail styling start */
 .hotel_detail {
