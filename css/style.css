@@ -212,7 +212,12 @@ nav {
     background-position: center;
     background-repeat: no-repeat;
 }
-
+.hotel_inner p {
+    color: #fff;
+}
+.hotel_inner img {
+    border-radius: 5px;
+}
 /* hotel styling end */
 /***footer start**/
 .footer_section {
