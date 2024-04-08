@@ -238,53 +238,7 @@ nav {
 }
 
 /* hotel styling end */
-/* detail styling start */
 
-.detail_section {
-    padding: 80px 0;
-}
-
-.detail_section h2 {
-    margin-bottom: 60px;
-    color: #000;
-}
-
-.detail_cards h3 {
-    margin: 20px 0;
-    font-size: 24px;
-    font-weight: 600;
-}
-
-.detail_cards {
-    text-align: center;
-    border-radius: 5px;
-    height: 100%;
-    padding: 30px 20px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    transition: all 0.5s;
-}
-
-.detail_cards img {
-    border-radius: 5px;
-}
-
-.detail_cards:hover {
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
-}
-
-
-.detail_cards p {
-    line-height: 26px;
-
-}
-
-.row.detail_row {
-    justify-content: center;
-}
-
-/* detail stylinh end */
 /***footer start**/
 .footer_section {
     background: var(--primary-color);
