@@ -95,7 +95,7 @@ nav {
 }
 
 .navlink ul li a {
-    color: #fff;
+    color: var(--primary-color);
     font-size: 14px;
     font-style: normal;
     font-weight: bold;
