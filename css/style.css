@@ -284,6 +284,12 @@ nav {
 
 
 /* hotel detail styling end */
+/* above styling start */
+.above_footer {
+    padding: 80px 0;
+}
+
+/* above styling end */
 /***footer start**/
 .footer_section {
     background: var(--primary-color);
