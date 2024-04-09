@@ -6,7 +6,7 @@
 
     .open {
         display: block;
-        color: #fff;
+        color: var(--primary-color);
         font-size: 30px;
     }
 
