@@ -319,6 +319,9 @@ nav {
     object-fit: cover;
     position: relative;
 }
+.resort_card_further {
+    margin-bottom: 15px;
+}
 
 /* cruise styling end */
 /* travel styling start */
