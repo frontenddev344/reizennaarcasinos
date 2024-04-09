@@ -207,7 +207,7 @@ nav {
 
 .casino_hotel {
     padding: 80px 0;
-    background: url(../img/hotelbg.png);
+    background: var(--primary-color);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
