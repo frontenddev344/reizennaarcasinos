@@ -92,6 +92,9 @@
     .blog_img img {
         width: 100%;
     }
+    .hotel_inner img {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -147,6 +150,9 @@
     .hotel_inner h2 {
        font-size: 28px;
     }
+    .hotel_inner img {
+        width: 60%;
+    }
 }
 
 @media screen and (max-width:575px) {
@@ -170,4 +176,5 @@
     .banner_box h1 {
         font-size: 30px;
     }
+   
 }
