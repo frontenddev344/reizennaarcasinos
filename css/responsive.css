@@ -95,6 +95,10 @@
     .hotel_inner img {
         width: 100%;
     }
+    .travel_card img {
+        height: 400px;
+        object-fit: cover;
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -176,5 +180,7 @@
     .banner_box h1 {
         font-size: 30px;
     }
-   
+    .travel_card img {
+        height: auto;
+    }
 }
