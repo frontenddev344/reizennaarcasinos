@@ -364,7 +364,7 @@ nav {
 
 .footer_section img {
     width: 150px;
-    /* filter: brightness(0) invert(1); */
+    filter: brightness(0) invert(1);
 }
 
 footer ul {
