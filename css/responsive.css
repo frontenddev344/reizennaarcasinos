@@ -132,6 +132,9 @@
     .events_section {
         padding: 40px 0;
     }
+    .casino_hotel {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width:575px) {
