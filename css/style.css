@@ -342,6 +342,7 @@ nav {
 .content_card h3 {
     color: var(--secondary-color);
     position: relative;
+    padding-bottom: 5px;
 }
 .content_card h3:after {
     content: '';
@@ -350,7 +351,7 @@ nav {
     width: 400px;
     height: 2px;
     left: 0;
-    bottom: 0;
+    bottom: -2px;
 }
 /* travel styling end */
 /* above styling start */
