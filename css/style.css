@@ -219,7 +219,7 @@ nav {
 
 .hotel_inner img {
     border-radius: 5px;
-    width: 220px;
+    width: 60%;
 }
 
 .hotel_inner h2 {
@@ -239,6 +239,7 @@ nav {
 }
 
 .hotel_inner {
+    align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
