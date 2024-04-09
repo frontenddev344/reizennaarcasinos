@@ -245,7 +245,7 @@ nav {
     justify-content: center;
     height: 100%;
 }
-.hotel_inner.img_box {
+.img_box {
     display: flex;
     align-items: center;
     justify-content: center;

@@ -144,6 +144,9 @@
     .contact_section {
         padding: 40px 0;
     }
+    .hotel_inner h2 {
+       font-size: 28px;
+    }
 }
 
 @media screen and (max-width:575px) {
