@@ -135,6 +135,15 @@
     .casino_hotel {
         padding: 40px 0;
     }
+    .cruise_detail {
+        padding: 40px 0;
+    }
+    .above_footer {
+        padding: 40px 0;
+    }
+    .contact_section {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width:575px) {
