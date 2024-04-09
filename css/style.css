@@ -348,7 +348,7 @@ nav {
     content: '';
     position: absolute;
     background: var(--secondary-color);
-    width: 400px;
+    width:200px;
     height: 2px;
     left: 0;
     bottom: -2px;
