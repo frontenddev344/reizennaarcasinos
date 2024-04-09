@@ -239,13 +239,18 @@ nav {
 }
 
 .hotel_inner {
-    align-items: center;
+    align-items: left;
     display: flex;
     flex-direction: column;
     justify-content: center;
     height: 100%;
 }
-
+.hotel_inner.img_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
 /* hotel styling end */
 /* hotel detail styling start */
 .hotel_detail {
