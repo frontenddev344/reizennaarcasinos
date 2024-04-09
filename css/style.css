@@ -239,7 +239,7 @@ nav {
 }
 
 .hotel_inner {
-    align-items: center;
+    align-items: last baseline;
     display: flex;
     flex-direction: column;
     justify-content: center;
