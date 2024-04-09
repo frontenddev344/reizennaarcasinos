@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 :root {
     --primary-color: #8faaaf;
@@ -9,7 +9,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Oxygen", sans-serif;
+    font-family: "Manrope", sans-serif;
 }
 
 ul,
