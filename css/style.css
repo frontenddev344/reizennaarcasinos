@@ -322,7 +322,8 @@ nav {
 }
 
 .resort_card_further img {
-    height: 400px;
+    /* height: 400px; */
+    height: 100%;
     object-fit: cover;
     position: relative;
 }
@@ -751,3 +752,15 @@ a.btn.btn-primary.setting-cookies:hover {
 
 /* 
 /cookie end/ */
+.cruise_detail .resort_inner {
+    height: 550px;
+}
+.travling-wrap .cruise_detail .resort_inner{
+    height: 700px;
+}
+.cruise_detail .resort_inner .row, .cruise_detail .resort_inner .row .col-xl-4.col-lg-6.col-md-12, .resort_card_further, .travel_card, .travel_card img{
+    height: 100%;
+}
+.content-wrap ol{
+    list-style: disc;
+}

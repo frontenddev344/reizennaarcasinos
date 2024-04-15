@@ -72,10 +72,24 @@
     #search-wrapper {
         max-width: 250px;
     }
+    .cruise_detail .resort_inner {
+        height: 550px;
+    }
+    .cruise_detail .resort_inner  .content_card p {
+        font-size: 14px;
+    }
+    .travling-wrap .cruise_detail .resort_inner {
+        height: 950px;
+    }
 }
 
 @media screen and (max-width:991px) {
-
+    .cruise_detail .resort_inner,     .travling-wrap .cruise_detail .resort_inner {
+        height: auto;
+    }
+    .resort_card_further img {
+        height: 400px;
+    }
     .hotel_box {
         margin-bottom: 35px;
     }
@@ -157,9 +171,29 @@
     .hotel_inner img {
         width: 60%;
     }
+    .info_right {
+        margin-top: 30px;
+    }
+    .footer_inner ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (max-width:575px) {
+    .navlink {
+        transform: translateX(-100%);
+        transition: all 0.5s linear;
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        background: var(--primary-color);
+        width: 100%;
+        padding: 40px;
+        margin: 0;
+        z-index: 9;
+    }
     .row.upcoming_events {
         padding-left: 20px;
         margin-left: 20px;
