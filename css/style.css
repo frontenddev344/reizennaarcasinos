@@ -764,3 +764,10 @@ a.btn.btn-primary.setting-cookies:hover {
 .content-wrap ol{
     list-style: disc;
 }
+nav.fixed-header {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    top: 0;
+    z-index: 999;
+}
